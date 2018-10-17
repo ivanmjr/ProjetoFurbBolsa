@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pluvia-master", "Assembly-CSharp.csproj", "{EC9E963C-4C60-5647-46F0-7B9F82BCD4E0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pluvia-master", "Assembly-CSharp-firstpass.csproj", "{357BB707-5627-B0F2-2ABB-3911160E9D2E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pluvia-master", "Assembly-CSharp-Editor.csproj", "{D1E2FDCC-C6DB-FDCE-5078-8975BD531C84}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EC9E963C-4C60-5647-46F0-7B9F82BCD4E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC9E963C-4C60-5647-46F0-7B9F82BCD4E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC9E963C-4C60-5647-46F0-7B9F82BCD4E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC9E963C-4C60-5647-46F0-7B9F82BCD4E0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{357BB707-5627-B0F2-2ABB-3911160E9D2E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{357BB707-5627-B0F2-2ABB-3911160E9D2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{357BB707-5627-B0F2-2ABB-3911160E9D2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{357BB707-5627-B0F2-2ABB-3911160E9D2E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D1E2FDCC-C6DB-FDCE-5078-8975BD531C84}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1E2FDCC-C6DB-FDCE-5078-8975BD531C84}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1E2FDCC-C6DB-FDCE-5078-8975BD531C84}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1E2FDCC-C6DB-FDCE-5078-8975BD531C84}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
